@@ -20,3 +20,5 @@ Allow the user to input the values of N, M, K and display the probability distri
 Enter `python {filename}` in your terminal to run the code
 
 ## Video demo
+https://github.com/user-attachments/assets/1317372e-2507-4f7b-ab66-749c73062c28
+
